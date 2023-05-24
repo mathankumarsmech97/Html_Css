@@ -1,0 +1,42 @@
+*{
+	box-sizing:border-box;
+}
+.main_container{
+	float:left;
+	width:100%;
+}
+.main_section{
+	padding:25px;
+	float:left;
+	width:100%;
+}
+.sub_section{
+	padding:10px;
+	float:left;
+	width:33.3%;
+}
+.main_section.text1{
+	background-color:MediumSeaGreen;
+	
+}
+.main_section.text2{
+	background-color:DodgerBlue;
+}
+.sub_section.text1{
+	background-color:hsl(0, 7%, 50%);
+}
+.sub_section.text2{
+	background-color:hsl(0, 28%, 50%);
+}
+.sub_section.text3{
+	background-color:hsl(0, 60%, 50%);
+}
+.sub_section.text4{
+	background-color:hsl(0, 60%, 50%);
+}
+.sub_section.text5{
+	background-color:hsl(0, 60%, 86%);
+}
+.sub_section.text6{
+	background-color:hsl(183, 60%, 86%);
+}
