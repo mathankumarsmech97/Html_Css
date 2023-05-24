@@ -1,0 +1,14 @@
+h1{
+	color:Red;
+	text-align:center;
+}
+table,th,td{
+	border:1px solid black;
+}
+
+
+.myclass{
+	border:10px outset red;
+	text-align:center;
+	background-color:lightblue;
+}

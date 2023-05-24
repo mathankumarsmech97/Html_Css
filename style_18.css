@@ -1,0 +1,29 @@
+
+h1{
+	color:gray;
+	text-align:center;
+}
+table,th,td{
+	border:1px solid red;
+	border-collapse:collapse;
+}
+body{
+	background-image: url("./img/img2.avif");
+	height:100px;width:100%;
+}
+.solid{
+	border-style:solid;
+	border-color:red;
+	border-radius:20px;
+	margin:100px;
+}
+.lineheight{
+	line-height:1.5cm;
+	text-indent:1.5cm;
+}
+.liststyle1{
+	list-style-type:lower-alpha;
+}
+.liststyle2{
+	list-style-type:square;
+}
